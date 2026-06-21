@@ -13,8 +13,7 @@ Este proyecto automatiza el flujo de regresión para la aplicación demo utiliza
 
 - **Node.js 18** o superior
 - **npm** (instalado con Node.js)
-- Terminal (PowerShell, Bash o CMD)
-
+- **Java 8 o superior** (JRE o JDK)
 ---
 
 ## Instalación
