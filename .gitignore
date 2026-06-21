@@ -7,9 +7,6 @@ node_modules/
 /playwright/.cache/
 /playwright/.auth/
 
-# Environment files
-.env
-.env.*
 # Additional ignore patterns
 dist/
 build/
