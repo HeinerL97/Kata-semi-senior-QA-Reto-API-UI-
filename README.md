@@ -1,7 +1,7 @@
 # Prueba técnica QA - Automatización con Playwright y Cucumber (BDD)
 
 Este proyecto automatiza el flujo de regresión para la aplicación demo utilizando:
-- **Playwright** como motor de automatización para API y UI.
+
 - **Cucumber (Gherkin en español)** para describir y modelar los escenarios de prueba desde una perspectiva de negocio.
 - **Allure** para generar reportes interactivos de las ejecuciones, incluyendo las evidencias.
 
