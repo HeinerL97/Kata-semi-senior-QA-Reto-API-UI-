@@ -1,0 +1,21 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
+
+# Environment files
+.env
+.env.*
+# Additional ignore patterns
+dist/
+build/
+coverage/
+*.log
+.vscode/
+.idea/
+.DS_Store
+
